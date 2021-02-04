@@ -28,7 +28,9 @@
     - Onboard Devices Bluetooth      [Disable]
 
 ### Not works
-+ you tell me
++ Card reader
++ IR receiver
++ You tell me
 
 ### How to install
 + Create bootable USB with macOS Catalina (Windows or Mac)
