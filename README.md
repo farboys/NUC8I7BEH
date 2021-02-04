@@ -20,12 +20,12 @@
 + Wake on LAN from S4/S5
     - Stay Off
 + Devices Settings
-    - Video IGD Minimum Memory <64 MB>
-    - Video IGD Aperture Size <256 MB>
-    - Video IGD Primary Video Port <HDMI or Thunderbolt, you choose>
-    - Video IGD Secondary Video Port <None>
-    - Onboard Devices WLAN <Disable>
-    - Onboard Devices Bluetooth <Disable>
+    - Video IGD Minimum Memory       [64 MB]
+    - Video IGD Aperture Size        [256 MB]
+    - Video IGD Primary Video Port   [HDMI or Thunderbolt, you choose]
+    - Video IGD Secondary Video Port [None]
+    - Onboard Devices WLAN           [Disable]
+    - Onboard Devices Bluetooth      [Disable]
 
 ### Not works
 + you tell me
