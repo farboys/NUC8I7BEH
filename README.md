@@ -34,8 +34,8 @@
 
 ### How to install
 + Create bootable USB with macOS Catalina (Windows or Mac)
-+ Copy OC/0.5.9/EFI to your BOOT folder
-+ Change your mac serial number in OC/config.plist
++ Copy /EFI to your BOOT folder
++ Change your mac serial number in /EFI/OC/config.plist
 
 ### Spec
 + WLAN+Bluetooth
