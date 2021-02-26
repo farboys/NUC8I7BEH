@@ -1,6 +1,6 @@
-#### NUC8I7BEH Hackintosh with OpenCore 0.6.6 UEFI
-##### Mac Big Sur 11.2 (20D64)
-![AboutThisMac](./image/20210204-222617@2x.png)
+#### NUC8I7BEH Hackintosh with OpenCore 0.6.6 Final UEFI
+##### Mac Big Sur 11.2.1
+![AboutThisMac](./image/20210226-222617@2x.png)
 ### Supported macOS versions
 + macOS Mojave 10.14.6
 + macOS Catalina 10.15.7
@@ -43,7 +43,7 @@
     - BCM943602CS PCIe M.2 NGFF
     - WIFI Antenna
 + Memory
-    - ADATA 8GB DDR4 2666 x2
+    - ADATA 16GB DDR4 2666 x2
 + SSD
     - SAMSUNG 860 EVO 250GB (MZ-76E250B)
 + Monitor1
