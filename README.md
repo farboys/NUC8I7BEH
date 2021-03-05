@@ -1,4 +1,4 @@
-#### NUC8I7BEH Hackintosh with OpenCore 0.6.6 Final UEFI
+#### NUC8I7BEH Hackintosh with OpenCore 0.6.7 Final UEFI
 ##### Mac Big Sur 11.2.1
 ![AboutThisMac](./image/20210226-222617@2x.png)
 ### Supported macOS versions
