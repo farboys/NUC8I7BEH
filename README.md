@@ -7,7 +7,7 @@
 + macOS Big Sur 11.x
 
 ### BIOS Setting
-##### BIOS version: [0087](https://downloadcenter.intel.com/zh-cn/download/30154/BIOS-BECFL357-)
+##### BIOS version: [0087](https://raw.githubusercontent.com/farboys/NUC8I7BEH/main/BIOS/BE0087.bio)
 + Disable
     - Legacy Boot
     - Fast Boot
